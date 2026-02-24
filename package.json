@@ -36,5 +36,14 @@
     "cli",
     "model-context-protocol"
   ],
+  "author": "Dipesh Rajoria",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DipeshRajoria007/mcport.git"
+  },
+  "homepage": "https://github.com/DipeshRajoria007/mcport#readme",
+  "bugs": {
+    "url": "https://github.com/DipeshRajoria007/mcport/issues"
+  },
   "license": "MIT"
 }
