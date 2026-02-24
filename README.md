@@ -13,7 +13,7 @@ Switching from Codex CLI to Claude Code? You probably have a bunch of MCP server
 ┌─────────────────────────┐          ┌──────────────────────────┐
 │ [mcp_servers.slack]     │          │ "slack": {               │
 │ command = "npx"         │  ──────> │   "command": "npx",      │
-│ args = ["-y", "..."]   │  mcport  │   "args": ["-y", "..."], │
+│ args = ["-y", "..."]    │  mcport  │   "args": ["-y", "..."], │
 │ [mcp_servers.slack.env] │          │   "env": { ... }         │
 │ SLACK_BOT_TOKEN = "..." │          │ }                        │
 └─────────────────────────┘          └──────────────────────────┘
