@@ -1,7 +1,7 @@
 {
   "name": "mcport",
-  "version": "1.0.0",
-  "description": "Migrate MCP server configurations from OpenAI Codex CLI to Claude Code",
+  "version": "1.0.1",
+  "description": "Migrate MCP server configurations from OpenAI Codex CLI to Claude Code — one command to port all your MCP servers",
   "type": "module",
   "bin": {
     "mcport": "./dist/index.js"
@@ -30,11 +30,25 @@
   ],
   "keywords": [
     "mcp",
+    "mcp-server",
+    "mcp-tools",
+    "model-context-protocol",
     "codex",
+    "codex-cli",
+    "openai-codex",
+    "openai",
     "claude",
+    "claude-code",
+    "anthropic",
     "migration",
+    "import",
+    "config-migration",
     "cli",
-    "model-context-protocol"
+    "ai",
+    "ai-tools",
+    "llm",
+    "developer-tools",
+    "toml-to-json"
   ],
   "author": "Dipesh Rajoria",
   "repository": {
